@@ -26,6 +26,12 @@ def test():
 while True:
     schedule.run_pending()
     schedule.every().day.at("08:45:00").do(gojen)
+    time.sleep(59)
+    
+    schedule.run_pending()
     schedule.every().day.at("12:55:00").do(gogo)
+    time.sleep(59)
+    
+    schedule.run_pending()
     schedule.every().day.at("17:51:00").do(owari)
     time.sleep(59)
