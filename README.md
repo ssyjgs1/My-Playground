@@ -14,3 +14,4 @@ Thank you!
 - Quiz from Web
 - Make Bot
 - Learn! from Pytorch Tutorial
+- et cetera  : 아무거나 마구잡이로 작성중인, 작성했던 것들
