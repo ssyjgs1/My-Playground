@@ -6,6 +6,4 @@
 - 2022-12-06 삼국 철모 사이즈는 유사할까 + 각국마다 선호하는 특성이 있을까
 - Quiz from Web
 - Make Bot
-- Learn! from Pytorch Tutorial
-- Learn! from PythonBasicIn1Hour
 - et cetera  : 그 외 분류로 작성중인, 작성했던 것들 + α
